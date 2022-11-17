@@ -1,0 +1,95 @@
+ARMANI,Arquero,0,Cancha,false,0
+FOYTH,Defensor,0,Cancha,false,1
+TAGLIAFICO,Defensor,0,Cancha,false,0
+SARAVIA,Lateral,0,Cancha,false,0
+PAREDES,Delantero,0,Cancha,false,0
+PEZZELLA,Defensor,0,Cancha,false,0
+PEREYRA,Centro campista,0,Cancha,false,0
+ACUÑA,Centro campista,0,Cancha,false,0
+AGUERO,Delantero,0,Cancha,false,0
+FUNES MORI,Arquero,0,Banca,false,0
+CASCO,Defensa,0,Banca,false,0
+PIZARRO,Lateral,0,Banca,false,0
+DE PAUL,Centro campista,0,Banca,false,0
+OTAMENDI,Lateral,0,Cancha,false,0
+MESSI,Delantero,0,Banca,false,20
+DI MARIA,Delantero,0,Cancha,false,8
+LAMPE PORRAS,Arquero,1,Cancha,true,0
+TORRES ROJAS,Defensa,1,Cancha,false,15
+CHUMACERO BRACAMONTE,Centro campista,1,Cancha,false,0
+HAQUIN LOPEZ,Defensa,1,Cancha,false,1
+CUELLAR SAAVEDRA,Defensa,1,Cancha,false,0
+SAAVEDRA FLORES,Centro campista,1,Cancha,false,0
+JUSTINIANO ARAUZ,Centro campista,1,Cancha,false,0
+BEJARANO IBAÑEZ,Defensa,1,Cancha,false,0
+MARTINS MORENO,Delantero,1,Cancha,false,0
+GALINDO SUHEIRO,Centro campista,1,Cancha,false,0
+VACA GUTIERREZ,Delantero,1,Cancha,false,0
+CORDANO JUSTINIANO,Arquero,1,Banca,false,0
+CARRASCO SANGUINO,Defensa,1,Banca,false,0
+CASTRO PEÑALOZA,Centro campista,1,Banca,false,0
+WAYAR CRUZ,Centro campista,1,Banca,false,0
+BEJARANO JIMENEZ,Defensa,1,Banca,false,0
+BECKER,Arquero,2,Cancha,false,0
+EMILIANO DA SILVA,Defensa,2,Cancha,false,0
+MIRANDA DE SOUZA FILHO,Defensa,2,Cancha,false,0
+AOAS CORREA,Defensa,2,Cancha,false,0
+CASIMIRO,Centro campista,2,Cancha,false,0
+KASMIRSKI,Defensa,2,Cancha,false,0
+NERES CAMPOS,Delantero,2,Cancha,false,0
+RAMOS DE OLIVEIRA MELO,Centro campista,2,Cancha,false,0
+DE JESUS,Delantero,2,Cancha,false,0
+BORGES  DA  SILVA,Delantero,2,Cancha,false,0
+COUTINHO CORREIA,Centro campista,2,Banca,false,0
+LOBO SILVA,Lateral,2,Banca,false,0
+ALVES DA SILVA,Defensa,2,Banca,false,0
+MILITAO,Defensa,2,Banca,false,0
+ALLAN,Lateral,2,Banca,false,0
+RAMOS,Arquero,3,Cancha,false,0
+OSPINA RAMIREZ,Arquero,3,Cancha,false,0
+ZAPATA VALENCIA,Defensa,3,Cancha,false,0
+MEDINA RAMIREZ,Defensa,3,Cancha,false,0
+ARIAS NARANJO,Defensa,3,Cancha,false,0
+BARRIOS TERAN,Centro campista,3,Cancha,false,0
+TESILLO GUTIERREZ,Defensa,3,Cancha,false,0
+ZAPATA BANGUERO,Delantero,3,Cancha,false,0
+CARDONA BEDOYA,Centro campista,3,Cancha,false,0
+GARCIA ZARATE,Delantero,3,Cancha,false,4
+RODRIGUEZ RUBIO,Centro campista,3,Cancha,false,0
+CUADRADO BELLO,Centro campista,3,Banca,false,0
+VARGAS GIL,Arquero,3,Banca,false,0
+MINA GONZALEZ,Defensa,3,Banca,false,0
+DIAZ MARULANDA,Centro campista,3,Banca,false,0
+URIBE VILLA,Centro campista,3,Banca,false,0
+LERMA SOLIS,Centro campista,3,Banca,false,0
+ARIAS ARROYO,Arquero,4,Cancha,false,0
+LICHNOVSKY OSORIO,Defensa,4,Cancha,false,0
+MARIPAN LOAYZA,Defensa,4,Cancha,false,0
+ISLA ISLA,Defensa,4,Cancha,false,0
+DIAZ HUINCALES,Defensa,4,Cancha,false,0
+FUENZALIDA GANA,Centro campista,4,Cancha,false,0
+SANCHEZ SANCHEZ,Delantero,4,Cancha,false,0
+VIDAL PARDO,Centro campista,4,Cancha,false,0
+CASTILLO MORA,Delantero,4,Cancha,false,2
+VALDES CONTRERAS,Centro campista,4,Cancha,false,0
+VARGAS ROJAS,Delantero,4,Cancha,false,0
+CORTES FERNANDEZ,Arquero,4,Banca,false,0
+PULGAR FARFAN,Centro campista,4,Banca,false,0
+PAVEZ SUAZO,Centro campista,4,Banca,false,0
+BEAUSEJOUR COLIQUEO,Defensa,4,Banca,false,0
+HERNANDEZ,Centro campista,4,Banca,false,0
+FARIÑEZ ARAY,Arquero,5,Cancha,false,0
+VILLANUEVA ALVAREZ,Defensa,5,Cancha,false,0
+OSORIO PAREDES,Defensa,5,Cancha,false,0
+CHANCELLOR CEDEÑO,Defensa,5,Cancha,false,0
+MORENO BORRERO,Centro campista,5,Cancha,false,0
+HERRERA RAVELO,Centro campista,5,Cancha,false,0
+MACHIS MARCANO,Centro campista,5,Cancha,false,0
+RINCON HERNANDEZ,Centro campista,5,Cancha,false,0
+ARISTEGUIETA DE LUCA,Delantero,5,Cancha,false,0
+SAVARINO QUINTERO,Centro campista,5,Cancha,false,0
+AÑOR ACOSTA,Centro campista,5,Banca,false,0
+GRATEROL NADER,Arquero,5,Banca,false,0
+SEIJAS GUNTHER,Centro campista,5,Banca,false,0
+DEL PINO MAGO,Lateral,5,Banca,false,0
+MURILLO ROMAÑA,Centro campista,5,Banca,false,0
